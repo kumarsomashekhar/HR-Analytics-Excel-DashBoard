@@ -152,5 +152,5 @@ Implementing the insights generated through this dashboard can help:
 - Enhance organizational performance.
 
 ---
-[Dataset](https://github.com/kumarsomashekhar/HR-Analytics-Excel-DashBoard/blob/main/HR%20DATA_Excel.xlsx%20-%20Data.csv)
+[Dataset](https://github.com/kumarsomashekhar/HR-Analytics-Excel-DashBoard/blob/main/HR%20DATA_Excel.xlsx%20-%20Data.csv) \
 [HR_Dashboard](https://github.com/kumarsomashekhar/HR-Analytics-Excel-DashBoard/blob/main/HRDashboard.PNG)
