@@ -62,4 +62,4 @@ Focus retention efforts on R&D and Sales. Improve career growth programs for emp
 ## Business Impact
 Reducing attrition can lower hiring costs, improve productivity, and retain organizational knowledge.
 
-[HR_Dashboard]()
+[HR_Dashboard](https://github.com/kumarsomashekhar/HR-Analytics-Excel-DashBoard/blob/main/HRDashboard.PNG)
