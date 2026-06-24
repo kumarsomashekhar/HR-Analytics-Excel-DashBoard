@@ -7,7 +7,7 @@ education, departments,
 and job roles using an HR Analytics Dashboard to support data-driven HR decisions.
 
 ## Dataset Overview
-[]()
+[Dataset](https://github.com/kumarsomashekhar/HR-Analytics-Excel-DashBoard/blob/main/HR%20DATA_Excel.xlsx%20-%20Data.csv)
 The dataset contains 1,470 employee records with demographic, education, department, job role, and attrition information.
 
 ### Executive Summary
